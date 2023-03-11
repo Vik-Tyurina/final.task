@@ -22,3 +22,6 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
+
+SortArray1(array1, array2);
+PrintArray(array2);
